@@ -16,6 +16,7 @@ Technologies used:
  - SQLAlchemy
  - HTML
  - Jinja
+ - Unit Tests
 
 **The website is used regularly by two users and will be expanded with new functionalities soon.** 
 
