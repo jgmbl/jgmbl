@@ -7,7 +7,6 @@ You can find more informations about me on [LinkedIn](https://www.linkedin.com/i
 # My projects
 
 ## [Home budget website](https://github.com/jgmbl/home-budget)
-Link to the repository
 
 Home budget website contains informations about spendings, budgeting and savings. It helps to keep income in balance. User can add and change data in every category. Summary contains informations about monthly budget and balance of categories.
 
