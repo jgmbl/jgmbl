@@ -13,6 +13,7 @@ Home budget website contains informations about spendings, budgeting and savings
 Technologies used:
  - Flask
  - SQLite
+ - SQLAlchemy
  - HTML
  - Jinja
 
