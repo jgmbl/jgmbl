@@ -1,6 +1,6 @@
 # About me
 
-My name is Joanna Gembel. I am a graduate of engineering studies at Gdańsk University of Technology. My main interests are Python, Linux, databases and computer vision. 
+My name is Joanna Gembel. I am a graduate of engineering studies at Gdańsk University of Technology. My main interests are Python, Linux and databases. 
 You can find more informations about me on [LinkedIn](https://www.linkedin.com/in/joanna-gembel/).
 
 
