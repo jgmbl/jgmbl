@@ -6,6 +6,17 @@ You can find more informations about me on [LinkedIn](https://www.linkedin.com/i
 
 # My projects
 
+## [Image Filtering Used in Photogrammetry](https://github.com/jgmbl/image_filtering_used_in_photogrammetry)
+Photogrammetry is a science field that deals with the creation of point clouds and 3D models. The goal of this project is to make the process of image filtering more accessible, since improves the quality of the point cloud. Gaussian blur, median blur and image sharpening are available. The project is an extension of my engineering thesis project.
+
+Technologies used:
+
+ - JavaFX
+ - OpenCV
+ - JUnit
+
+The code is tested manually and by unit tests.
+
 ## [Home Budget Website](https://github.com/jgmbl/home-budget)
 
 Home budget website contains informations about spendings, budgeting and savings. It helps to keep income in balance. User can add and change data in every category. Summary contains informations about monthly budget and balance of categories.
@@ -20,18 +31,6 @@ Technologies used:
 The code is tested manually and by unit tests.
 
 **The website is used regularly by two users and will be expanded with new functionalities soon.** 
-
-
-## [Image Filtering Used in Photogrammetry](https://github.com/jgmbl/image_filtering_used_in_photogrammetry)
-Photogrammetry is a science field that deals with the creation of point clouds and 3D models. The goal of this project is to make the process of image filtering more accessible, since improves the quality of the point cloud. Gaussian blur, median blur and image sharpening are available. The project is an extension of my engineering thesis project.
-
-Technologies used:
-
- - JavaFX
- - OpenCV
- - JUnit
-
-The code is tested manually and by unit tests.
 
 # Planned projects
 
