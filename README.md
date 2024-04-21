@@ -25,6 +25,7 @@ Technologies used:
 
  - Spring Boot
  - MySQL
+ - Spring Data JPA
  - Thymeleaf
  - JUnit
  - Mockito
