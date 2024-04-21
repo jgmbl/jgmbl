@@ -32,6 +32,17 @@ The code is tested manually and by unit tests.
 
 **The website is used regularly by two users and will be expanded with new functionalities soon.** 
 
+## [Yarn Shop](https://github.com/jgmbl/yarn-shop)
+Yarn shop is a website dedicated to selling knitting products. It contains tabs such as login and registration, product page and account page. User can search for a specific yarn by the search engine and add it to his shopping cart.
+
+Technologies used:
+
+ - Spring Boot
+ - MySQL
+ - Thymeleaf
+ - JUnit
+ - Mockito
+
 # Planned projects
 
 ## Remote sensing basic indexes
@@ -55,13 +66,3 @@ Technologies used:
 
  - Python
  - OpenCV
-
-## Yarn Shop
-**Work in progress**
-Yarn shop is a website dedicated to selling knitting products. It contains tabs such as login and registration, product page and account page. User can search for a specific yarn by the search engine and add it to his shopping card.
-
-Technologies used:
-
- - Spring Boot
- - MySQL
- - Test-Driven Development
