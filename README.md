@@ -18,6 +18,17 @@ Technologies used:
 
 The code is tested manually and by unit tests.
 
+## [Yarn Shop](https://github.com/jgmbl/yarn-shop)
+Yarn shop is a website dedicated to selling knitting products. It contains tabs such as login and registration, product page and account page. User can search for a specific yarn by the search engine and add it to his shopping cart.
+
+Technologies used:
+
+ - Spring Boot
+ - MySQL
+ - Thymeleaf
+ - JUnit
+ - Mockito
+
 ## [Home Budget Website](https://github.com/jgmbl/home-budget)
 
 Home budget website contains informations about spendings, budgeting and savings. It helps to keep income in balance. User can add and change data in every category. Summary contains informations about monthly budget and balance of categories.
@@ -32,16 +43,6 @@ The code is tested manually and by unit tests.
 
 **The website is used regularly by two users and will be expanded with new functionalities soon.** 
 
-## [Yarn Shop](https://github.com/jgmbl/yarn-shop)
-Yarn shop is a website dedicated to selling knitting products. It contains tabs such as login and registration, product page and account page. User can search for a specific yarn by the search engine and add it to his shopping cart.
-
-Technologies used:
-
- - Spring Boot
- - MySQL
- - Thymeleaf
- - JUnit
- - Mockito
 
 # Planned projects
 
